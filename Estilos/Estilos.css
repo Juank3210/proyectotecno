@@ -1,0 +1,15 @@
+body{
+	background: url(../imagenes/fondo.jpg);
+	background-size: 100%;
+}
+
+a
+{
+	font-size: 21px;
+color:#0A5418;
+text-decoration: none;  
+
+}
+
+
+
